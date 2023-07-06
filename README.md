@@ -3,7 +3,7 @@
 
 ## 如何使用  
 1. 請先下載所有檔案
-   `git clone https://github.com/tuterwell/restaurant-website.git`
+   `git clone https://github.com/tuterwell/restaurant-website`
 2. 確保有安裝 node.js
 3. 安裝 npm
    `npm install`
